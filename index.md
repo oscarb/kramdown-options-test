@@ -5,18 +5,19 @@ layout: default
 
 # Kramdown Options Test
 
-Status:
+I've been having problems making GitHub Pages, Jekyll and Kramdown to work. This is a GitHub Pages project to demonstrate the issues.
+
+# Status:
 
 * toc_levels - works!
 * hard_wrap - works!
 * transliterated_header_ids - **does not work!**
 
-
+# Table of Contents 
 
 * TOC
 {:toc}
 
-I've been having problems making GitHub Pages, Jekyll and Kramdown to work. This is a GitHub Pages project to demonstrate the issues.
 
 ## Problem with Table of contents levels
 According to the [Kramdown documentation](http://kramdown.gettalong.org/options.html#option-toc-levels) I should be able to adjust the level of TOC with the option `toc_levels`.
