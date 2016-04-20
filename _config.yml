@@ -1,5 +1,4 @@
 name: Kramdown options test
 markdown: kramdown
 kramdown:
-
   transliterated_header_ids: true
