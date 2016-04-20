@@ -1,0 +1,8 @@
+name: Kramdown options test
+markdown: Kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+  auto_ids: true
+  transliterated_header_ids: true
+  toc_levels: 1..2
