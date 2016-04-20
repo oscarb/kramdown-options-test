@@ -27,3 +27,6 @@ Should also not appear in TOC
 
 #### Even deeper subheader
 Should definitely not appear in TOC
+
+## Better subheader
+But this subheader should appear as it is on level 2
