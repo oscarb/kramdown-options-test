@@ -30,3 +30,6 @@ Should definitely not appear in TOC
 
 ## Better subheader
 But this subheader should appear as it is on level 2
+
+# More of the same 
+Just for demonstrating purposes
