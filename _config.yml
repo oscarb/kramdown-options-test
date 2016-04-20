@@ -3,5 +3,6 @@ markdown: kramdown
 kramdown:
   toc_levels: 1..2
   hard_wrap: true
-  auto_id_stripping: true
+  auto_id_prefix: hello-
+  auto_ids: true
 
