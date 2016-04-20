@@ -1,6 +1,7 @@
 name: Kramdown options test
 markdown: kramdown
 kramdown:
+  transliterated_header_ids: true
   toc_levels: 1..2
   hard_wrap: true
 
