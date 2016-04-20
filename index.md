@@ -21,3 +21,9 @@ kramdown:
 
 ### This is a subheader
 This subheader should not appear in the table of contents above
+
+### This is another subheader
+Should also not appear in TOC
+
+#### Even deeper subheader
+Should definitely not appear in TOC
