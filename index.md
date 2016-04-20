@@ -5,12 +5,12 @@ layout: default
 
 # Kramdown Options Test
 
-I've been having problems making GitHub Pages, Jekyll and Kramdown to work. This is a GitHub Pages project to demonstrate the issues.
+I've been having problems making GitHub Pages, Jekyll and Kramdown to work in another repo. This is a GitHub Pages project to demonstrate the issues.
 
 # Status:
 
-* toc_levels - works!
-* hard_wrap - works!
+* toc_levels - works in this repo!
+* hard_wrap - works in this repo!
 * transliterated_header_ids - **does not work!**
 
 # Table of Contents 
