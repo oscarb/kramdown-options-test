@@ -3,3 +3,4 @@ markdown: kramdown
 kramdown:
   toc_levels: 1..2
   hard_wrap: true
+  transliterated_header_ids: true
