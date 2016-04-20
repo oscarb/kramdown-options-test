@@ -5,6 +5,14 @@ layout: default
 
 # Kramdown Options Test
 
+Status:
+
+* toc_levels - works!
+* hard_wrap - works!
+* transliterated_header_ids - **does not work!**
+
+
+
 * TOC
 {:toc}
 
