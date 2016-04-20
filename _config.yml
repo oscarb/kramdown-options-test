@@ -1,5 +1,5 @@
 name: Kramdown options test
-markdown: Kramdown
+markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: true
