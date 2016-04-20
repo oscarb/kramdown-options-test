@@ -59,7 +59,13 @@ line <br />
 I <br/>
 want.
 
+## Transliterate header ids
 
+When set to true, I should be able to have translitterated header ids...
+
+### Header with åäö 
+
+The above header uses typical swedish characters...
 
 # More of the same 
 Just for demonstrating purposes
