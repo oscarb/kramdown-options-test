@@ -1,1 +1,4 @@
 name: Kramdown options test
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
