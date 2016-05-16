@@ -9,14 +9,28 @@ I've been having problems making GitHub Pages, Jekyll and Kramdown to work in an
 
 # Status:
 
+* parse markdown in html block
 * toc_levels - works in this repo!
 * hard_wrap - works in this repo!
 * transliterated_header_ids - **does not work!**
+
 
 # Table of Contents 
 
 * TOC
 {:toc}
+
+
+## Parse markdown in html block 
+
+According to [kramdown Syntax](http://kramdown.gettalong.org/syntax.html#html-blocks), markdown within a HTML-block (within a Markdown-file) should be parsed if the attribute `markdown` is set.
+
+### Test
+
+<div markdown="1">
+Hello **world**! How _are_ you ***today***?
+</div>
+
 
 
 ## Problem with Table of contents levels
