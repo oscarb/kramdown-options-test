@@ -21,7 +21,7 @@ I've been having problems making GitHub Pages, Jekyll and Kramdown to work in an
 {:toc}
 
 
-## Parse markdown in html block 
+## Parse markdown in html block {:.class}
 
 According to [kramdown Syntax](http://kramdown.gettalong.org/syntax.html#html-blocks), markdown within a HTML-block (within a Markdown-file) should be parsed if the attribute `markdown` is set.
 
