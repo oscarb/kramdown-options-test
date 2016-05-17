@@ -9,6 +9,7 @@ I've been having problems making GitHub Pages, Jekyll and Kramdown to work in an
 
 # Status:
 
+* ALD and IAL
 * parse markdown in html block
 * toc_levels - works in this repo!
 * hard_wrap - works in this repo!
@@ -21,7 +22,14 @@ I've been having problems making GitHub Pages, Jekyll and Kramdown to work in an
 {:toc}
 
 
-## Parse markdown in html block {:.class}
+## ALD and IAL
+{: .soneClass }
+
+Testing [attribute list definitions](http://kramdown.gettalong.org/syntax.html#attribute-list-definitions) and [inline attribute lists](http://kramdown.gettalong.org/syntax.html#inline-attribute-lists){:rel='something'} .
+
+
+
+## Parse markdown in html block
 
 According to [kramdown Syntax](http://kramdown.gettalong.org/syntax.html#html-blocks), markdown within a HTML-block (within a Markdown-file) should be parsed if the attribute `markdown` is set.
 
