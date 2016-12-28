@@ -100,3 +100,11 @@ The above header uses typical swedish characters...
 
 # More of the same 
 Just for demonstrating purposes. Is "smart quotes" enabled by the way?
+
+# parse_block_html
+
+<div> 
+
+## Header inside div
+
+</div>
