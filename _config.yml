@@ -5,3 +5,4 @@ kramdown:
   hard_wrap: true
   auto_id_stripping: true
   auto_ids: true
+  parse_block_html: true
