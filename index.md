@@ -104,7 +104,9 @@ Just for demonstrating purposes. Is "smart quotes" enabled by the way?
 # parse_block_html
 
 <div> 
+<div>
 
-## Header inside div
+## Header inside div inside div
 
+</div>
 </div>
